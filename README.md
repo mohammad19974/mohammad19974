@@ -1,50 +1,30 @@
-**### Hi there 👋
+# [Mohammad jamil]
 
-<!--
-**mohammad19974/mohammad19974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-**# Hi there, I'm [Your Name]! 👋
+## About Me
 
-I'm a passionate front-end developer with a love for crafting beautiful and intuitive user experiences. I enjoy working with the latest web technologies and always strive to stay updated with industry trends.
+I am a passionate front-end developer with a keen interest in creating intuitive and visually appealing user interfaces. I have experience working with modern web technologies such as HTML5, CSS3, and JavaScript, and I'm always eager to learn and adapt to new tools and frameworks.
 
 ## Skills
 
-- **Languages:** HTML5, CSS3, JavaScript
-- **Frameworks/Libraries:** React.js, Vue.js, Bootstrap
-- **Tools:** Git, VS Code, Adobe XD
-- **Others:** Responsive Design, UI/UX Principles
+- HTML5
+- CSS3 / SASS / LESS
+- Ionic
+- JavaScript / ES6+
+- React.js
+- MUI
+- Responsive Web Design
+- UI/UX Design
+- Git
 
-## Projects
 
-Here are some of the projects I've worked on:
 
-- **[Project Name 1](link)**: Brief description.
-- **[Project Name 2](link)**: Brief description.
-- **[Project Name 3](link)**: Brief description.
 
-## GitHub Stats
+## Contact Me
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+- GitHub: [github.com/mohammad19974](link_to_github_profile)
+- LinkedIn: [www.linkedin.com/in/mohammad-al-jamil-165639214](link_to_linkedin_profile)
+- Email: mohammad.m.jamel@gmail.com
 
-## Connect with Me
-
-Let's connect and discuss web development:
-
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- [Twitter](https://twitter.com/your-handle)
-- [Portfolio Website](https://www.yourwebsite.com)
-- [Email](mailto:youremail@example.com)
-
-Feel free to reach out to collaborate on exciting projects or just to say hello!
-
+Feel free to reach out to me if you have any questions or would like to collaborate on a project!
