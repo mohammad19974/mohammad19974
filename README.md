@@ -47,11 +47,79 @@
 
 ## 📦 Featured Projects
 
-- **Mercato** – E-commerce platform (Web & Mobile)
-- **Crypton Doctor App** – Medical consultation app
-- **Teachery Experts App** – Education platform
-- **RightMed Website** – Healthcare services
-- **AR Medical Book** – Augmented Reality learning
+### 🛒 Turkish Wow
+E-commerce platform for Turkish products targeting web and mobile users.
+
+- 🌐 Website: https://turkishwow.com/
+- 📱 Platforms: Web, iOS, Android
+- 🛠️ Tech Stack: React.js, Ionic
+- 👨‍💻 Role: Front-End Developer
+
+---
+
+### 🦷 Crpton – Dental Dashboard
+Web-based **dashboard system for dentists** to manage medical data and workflows.
+
+- 🛠️ Tech Stack: React.js, TypeScript
+- 📊 Features:
+  - Doctor dashboard
+  - Patient management
+  - Medical data visualization
+- 👥 Role: **Front-End Contributor**
+- ✨ Contribution: UI implementation, dashboard components, and UX improvements
+
+> ℹ️ This project is a **medical dashboard**, not related to crypto or blockchain.
+
+---
+
+### 🛍️ Mercato
+E-commerce platform for online shopping (Web & Mobile).
+
+- 🛠️ React.js, Next.js, Ionic, SCSS
+
+---
+
+### 🏥 RightMed
+Healthcare website for medical services.
+
+- 🛠️ React.js, Strapi
+
+---
+
+### 📱 Crypton Doctor App
+Cross-platform medical consultation app.
+
+- 🛠️ React.js, Ionic, TypeScript, GraphQL
+
+---
+
+### 🎓 Teachery Experts App
+Mobile application for educators.
+
+- 🛠️ React.js, Ionic, Apollo Client
+
+---
+
+## 🎓 Education
+
+**Bachelor’s Degree in Information Technology**  
+Palestine Ahliya University — 2019
+
+---
+
+## 📜 Certifications
+
+- Full Stack Development – **Udacity (Million Arab Coders)**
+- Google Fundamentals of Digital Marketing
+- International Diploma in IT Skills – Cambridge
+
+---
+
+## 🌐 Languages
+
+- Arabic — Native
+- English — Fluent
+- Hebrew — Fluent
 
 ---
 
@@ -65,6 +133,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
