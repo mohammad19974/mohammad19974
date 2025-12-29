@@ -1,30 +1,92 @@
-# [Mohammad AlJamil]
+# 👋 Hi, I'm Mohammad Abdaljamil
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mohammad-abdaljamil&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
+🚀 **Software Engineer | Front-End Specialist | Full-Stack Developer**
 
-## About Me
+---
 
-I am a passionate front-end developer with a keen interest in creating intuitive and visually appealing user interfaces. I have experience working with modern web technologies such as HTML5, CSS3, and JavaScript, and I'm always eager to learn and adapt to new tools and frameworks.
+## 🧠 About Me
 
-## Skills
+- 💻 Front-End Developer at **Userpilot**
+- 🌍 Based in **Bethlehem, Palestine**
+- ⚛️ React • TypeScript • GraphQL
+- 📱 Web & Mobile Applications
+- 🎮 Unity & Game Development
+- 🌱 Always learning and building
 
-- HTML5
-- CSS3 / SASS / LESS
-- Ionic
-- JavaScript / ES6+
-- React.js
-- MUI
-- Responsive Web Design
-- UI/UX Design
-- Git
+---
 
+## 🛠️ Tech Stack
 
+### Front-End
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Apollo](https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
 
+### UI & Styling
+![Ant Design](https://img.shields.io/badge/AntDesign-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-## Contact Me
+### Mobile
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 
-- GitHub: [github.com/mohammad19974](link_to_github_profile)
-- LinkedIn: [www.linkedin.com/in/mohammad-al-jamil-165639214](link_to_linkedin_profile)
-- Email: mohammad.m.jamel@gmail.com
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-Feel free to reach out to me if you have any questions or would like to collaborate on a project!
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammad-abdaljamil&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?username=mohammad-abdaljamil&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-abdaljamil&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammad-abdaljamil&theme=onedark&row=1&column=6" />
+</p>
+
+---
+
+## 📦 Featured Projects
+
+- **Mercato** – E-commerce platform (Web & Mobile)
+- **Crypton Doctor App** – Medical consultation app
+- **Teachery Experts App** – Education platform
+- **RightMed Website** – Healthcare services
+- **AR Medical Book** – Augmented Reality learning
+
+---
+
+## 📫 Contact Me
+
+<p>
+  <a href="mailto:mohammad.m.jamel@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/mohammed-jamel">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐ **If you like my work, consider giving a star to my repositories!**
