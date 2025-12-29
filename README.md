@@ -86,12 +86,6 @@ Healthcare website for medical services.
 
 ---
 
-### 📱 Crypton Doctor App
-Cross-platform medical consultation app.
-
-- 🛠️ React.js, Ionic, TypeScript, GraphQL
-
----
 
 ### 🎓 Teachery Experts App
 Mobile application for educators.
